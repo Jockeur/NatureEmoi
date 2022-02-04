@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403208285572",
+    "project_id": "nature-collection-8f158",
+    "storage_bucket": "nature-collection-8f158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403208285572:android:7359a2b204c789ae1b41d1",
+        "android_client_info": {
+          "package_name": "fr.jockeur.naturecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403208285572-oaksbk1lnodqm2236hfkbgif22758lca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwihYpHeCyLzyzvgG8ViUz1pv3ooB7-BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403208285572-oaksbk1lnodqm2236hfkbgif22758lca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
